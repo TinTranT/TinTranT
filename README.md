@@ -25,7 +25,6 @@ I'm a third-year Information Technology student at **HCMC University of Technolo
 - 🔭 I’m currently building my skills in **Node.js, React, and modern web architecture**.
 - 🌱 I have hands-on experience developing RESTful APIs and building responsive user interfaces.
 - 🤝 I enjoy working in collaborative environments, with practical experience in **Agile/Scrum** methodologies using tools like Jira.
-- 💬 Ask me about **JavaScript, React, Express.js, or MongoDB**.
 - 🌐 I have a strong command of English, certified with an **IELTS Academic score of 7.0**.
 - 📫 How to reach me: **trantrungtin254@gmail.com**
 
