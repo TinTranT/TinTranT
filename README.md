@@ -85,19 +85,6 @@ Here are the technologies I've been working with recently:
 
 ---
 
-### 🚀 My Projects
-
-Here are some of the projects I'm proud of. They are all university course projects where I played a key development role.
-
-| Project Title | Description | Tech Stack | Links |
-|---|---|---|---|
-| **⚕️ Valhalla Health (Scrum Project)** | A demo app for booking doctor appointments, developed in a 2-day intensive workshop using 3 Sprints. The system helps patients find the right medical department based on their symptoms and book available slots. | <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Express.js-000?style=flat&logo=express" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css" /> </p> | <a href="https://github.com/BachCanh/Valhalla-Frontend">Frontend Repo</a> <br> <a href="https://github.com/BachCanh/Valhalla-Backend">Backend Repo</a> <br> <a href="https://www.youtube.com/watch?v=mP6SJJBsbac&list=PLn8wNZavHPET2V5wsrwWHUsh-NyOvMHjH">Video Demo</a> |
-| **🏦 6P Bank** | A digital banking application providing core financial services like account management, money transfers, and loan applications. Built as a part of my Object-Oriented Software Engineering course. | <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Express.js-000?style=flat&logo=express" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css" /> </p> | <a href="https://github.com/TuanWoox/6P_FrontEnd">Frontend Repo</a> <br> <a href="https://github.com/TuanWoox/6P_BackEnd">Backend Repo</a> <br> <a href="https://drive.google.com/file/d/1q-JK47ku-cd1e4VbOrfk931i-P4NPD5-/view?usp=sharing">Video Demo</a> |
-| **🍕 Pizza Go** | A full-stack e-commerce platform for online food ordering. This project emphasizes robust and scalable architecture by implementing multiple software design patterns. | <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs" /> <img src="https://img.shields.io/badge/Express.js-000?style=flat&logo=express" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb" /> </p> | <a href="https://github.com/MrHH-k22/PizzaGo_FrontEnd">Frontend Repo</a> <br> <a href="https://github.com/MrHH-k22/PizzaGo_Backend">Backend Repo</a> <br> <a href="https://youtu.be/adcBInECFRc">Video Demo</a> |
-| **📰 Insight News** | A user-friendly news platform for reading and publishing articles. Features include article posting, commenting, and search functionality. | <p align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs" /> <img src="https://img.shields.io/badge/Handlebars.js-FF7D00?style=flat&logo=handlebarsdotjs" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap" /> <img src="https://img.shields.io/badge/Express.js-000?style=flat&logo=express" /> </p> | <a href="https://github.com/TinTranT/Web-Development">GitHub Repo</a> <br> <a href="https://youtu.be/ud9uOtHkiXc">Video Demo</a> |
-
----
-
 ### 📊 My GitHub Stats
 
 <p align="center">
