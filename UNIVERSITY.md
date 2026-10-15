@@ -29,7 +29,7 @@ Here are the technologies I worked with during my university years:
 
 ## 🚀 Projects
 
-Here are some of the projects I'm proud of. They are all university course projects where I played a key development role.
+I'm proud to have been a member of the teams behind these projects. They are all university course projects, built as group work.
 
 | Project Title | Description | Tech Stack | Links |
 |---|---|---|---|
